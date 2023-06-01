@@ -1,0 +1,17 @@
+img {
+  width: 100%;
+}
+.blueBg {
+  font-size: 40px !important;
+  background: #085070;
+  color: white;
+}
+.missingPuppy {
+  background: tomato;
+  font-size: 30px;
+}
+@media (min-width: 992px) {
+  .missingPuppy p {
+    font-size: 45px;
+  }
+}
